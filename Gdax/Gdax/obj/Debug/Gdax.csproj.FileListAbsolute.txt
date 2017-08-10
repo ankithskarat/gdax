@@ -1,0 +1,6 @@
+c:\users\ankar\documents\visual studio 2015\Projects\Gdax\Gdax\bin\Debug\Gdax.exe.config
+c:\users\ankar\documents\visual studio 2015\Projects\Gdax\Gdax\bin\Debug\Gdax.exe
+c:\users\ankar\documents\visual studio 2015\Projects\Gdax\Gdax\bin\Debug\Gdax.pdb
+c:\users\ankar\documents\visual studio 2015\Projects\Gdax\Gdax\obj\Debug\Gdax.exe
+c:\users\ankar\documents\visual studio 2015\Projects\Gdax\Gdax\obj\Debug\Gdax.pdb
+c:\users\ankar\documents\visual studio 2015\Projects\Gdax\Gdax\obj\Debug\Gdax.csprojResolveAssemblyReference.cache
